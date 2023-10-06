@@ -17,33 +17,33 @@
 ### Languages：
 
 <a href="https://www.python.org/">
-  <img src="http://www.igarashi.fun:8999/img/python.png" alt="Python" height="50"/>
+  <img src="http://www.igarashi.icu:8999/img/python.png" alt="Python" height="50"/>
 </a>
 <a href="https://www.javascript.com/">
-  <img src="http://www.igarashi.fun:8999/img/js.png" alt="JS" height="50"/>
+  <img src="http://www.igarashi.icu:8999/img/js.png" alt="JS" height="50"/>
 </a>
 
 ### framework：
 <a href="https://fastapi.tiangolo.com/">
-  <img src="http://www.igarashi.fun:8999/img/fastapi.png" alt="FastApi" height="50"/>
+  <img src="http://www.igarashi.icu:8999/img/fastapi.png" alt="FastApi" height="50"/>
 </a>
 <a href="https://www.djangoproject.com/">
-  <img src="http://www.igarashi.fun:8999/img/Django.png" alt="Django" height="50"/>
+  <img src="http://www.igarashi.icu:8999/img/Django.png" alt="Django" height="50"/>
 </a>
 <a href="https://www.tornadoweb.org/">
-  <img src="http://www.igarashi.fun:8999/img/tornado.png" alt="Tornado" height="50"/>
+  <img src="http://www.igarashi.icu:8999/img/tornado.png" alt="Tornado" height="50"/>
 </a>
 
 <br/>
 
 <a href="https://v3.cn.vuejs.org/">
-  <img src="http://www.igarashi.fun:8999/img/vue.png" alt="Vue" height="50"/>
+  <img src="http://www.igarashi.icu:8999/img/vue.png" alt="Vue" height="50"/>
 </a>
 <a href="https://quasar.dev/">
-  <img src="http://www.igarashi.fun:8999/img/quasar.png" alt="quasar" height="50"/>
+  <img src="http://www.igarashi.icu:8999/img/quasar.png" alt="quasar" height="50"/>
 </a>
 <a href="https://facebook.github.io/react/">
-  <img src="http://www.igarashi.fun:8999/img/react.png" alt="React" height="50"/>
+  <img src="http://www.igarashi.icu:8999/img/react.png" alt="React" height="50"/>
 </a>
 
 ### My profile：
@@ -53,7 +53,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igarashi-G&hide=html,less&theme=radical&layout=compact" />
 </a>
 
-<img src="http://www.igarashi.fun:8999/img/qb.gif" alt="魔法少女QB" height="60" align="right"/>
+<img src="http://www.igarashi.icu:8999/img/qb.gif" alt="魔法少女QB" height="60" align="right"/>
 Email address welcome to contact [Email](igarashifk@gmail.com) 💌
 
 In Shenzhen, welcome to play with me 🎮

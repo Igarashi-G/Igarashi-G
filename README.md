@@ -1,7 +1,7 @@
-**Hi~** <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, **Igarashi-G**</br>
-浑水摸鱼的 **Python** 混子 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
+**Hi~** <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>, **悦·宝宝**</br>
+浑水摸鱼的 **coding** 混子 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br/>
 没事整整 Vue/React <br/>
-干劲满满地学 **Go** 中...<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br/>
+干劲满满地写 **Bug** 中...<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"><br/>
 热爱沟通与交流😄
 
 <!--
@@ -54,7 +54,7 @@
 </a>
 
 <img src="http://www.igarashi.icu:8999/img/qb.gif" alt="魔法少女QB" height="60" align="right"/>
-Email address welcome to contact [Email](igarashifk@gmail.com) 💌
+Email address welcome to contact [Email](2545369032@qq.com) 💌
 
 In Shenzhen, welcome to play with me 🎮
 

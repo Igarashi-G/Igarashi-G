@@ -16,12 +16,10 @@
 -->
 ### Languages：
 
-<a href="https://www.python.org/">
-  <img src="http://www.igarashi.icu:8999/img/python.png" alt="Python" height="50"/>
-</a>
-<a href="https://www.javascript.com/">
-  <img src="http://www.igarashi.icu:8999/img/js.png" alt="JS" height="50"/>
-</a>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
 
 ### framework：
 <a href="https://fastapi.tiangolo.com/">
@@ -46,6 +44,11 @@
   <img src="http://www.igarashi.icu:8999/img/react.png" alt="React" height="50"/>
 </a>
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="rust" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
 ### My profile：
 
 <a href="https://github.com/Igarashi-G">

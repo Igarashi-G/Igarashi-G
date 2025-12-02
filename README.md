@@ -17,37 +17,30 @@
 ### Languages：
 
 <p align="left">
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/8144ae7e9ec2274bdb8f76bdbdb6e6509538c7a8/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/8144ae7e9ec2274bdb8f76bdbdb6e6509538c7a8/topics/css/css.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png"></code>
 </p>
 
 ### framework：
 <a href="https://fastapi.tiangolo.com/">
-  <img src="http://www.igarashi.icu:8999/img/fastapi.png" alt="FastApi" height="50"/>
+  <img height="50" src="http://www.igarashi.icu:8999/img/fastapi.png" alt="FastApi"/>
 </a>
 <a href="https://www.djangoproject.com/">
-  <img src="http://www.igarashi.icu:8999/img/Django.png" alt="Django" height="50"/>
+  <img height="50" src="http://www.igarashi.icu:8999/img/Django.png" alt="Django"/>
 </a>
 <a href="https://www.tornadoweb.org/">
-  <img src="http://www.igarashi.icu:8999/img/tornado.png" alt="Tornado" height="50"/>
+  <img height="50" src="http://www.igarashi.icu:8999/img/tornado.png" alt="Tornado"/>
 </a>
-<a href="https://www.tornadoweb.org/">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png">
-</a>
-<a href="https://www.tornadoweb.org/">
-  <img src="http://www.igarashi.icu:8999/img/tornado.png" alt="Tornado" height="50"/>
-</a>
-
 <br/>
 
 <a href="https://v3.cn.vuejs.org/">
-  <img src="[http://www.igarashi.icu:8999/img/vue.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png)" alt="Vue" height="50"/>
+  <img height="50" src="[http://www.igarashi.icu:8999/img/vue.png](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png)" alt="Vue"/>
 </a>
 <a href="https://facebook.github.io/react/">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" height="50"/>
+  <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
 </a>
 
 <p align="left">

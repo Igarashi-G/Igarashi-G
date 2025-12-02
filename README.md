@@ -17,20 +17,20 @@
 ### Languages：
 
 <p align="left">
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/ac0b33cc8936c152bc0dacf91436f8099a5413c9/topics/go/go.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg"></code>
+  <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg"></code>
 </p>
 
 ### framework：
 <a href="https://fastapi.tiangolo.com/">
-  <img height="50" src="http://www.igarashi.icu:8999/img/fastapi.png" alt="FastApi"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/fastapi/fastapi-original.svg" alt="FastAPI"/>
 </a>
 <a href="https://www.djangoproject.com/">
-  <img height="50" src="http://www.igarashi.icu:8999/img/Django.png" alt="Django"/>
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/django/django-plain-wordmark.svg" alt="Django"/>
 </a>
-<a href="https://www.tornadoweb.org/">
-  <img height="50" src="http://www.igarashi.icu:8999/img/tornado.png" alt="Tornado"/>
+<a href="https://flask.palletsprojects.com/">
+  <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/flask/flask-original-wordmark.svg" alt="Flask"/>
 </a>
 <br/>
 
